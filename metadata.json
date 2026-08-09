@@ -1,0 +1,6 @@
+{
+  "name": "AdCommand",
+  "description": "Precision campaign management platform with AI-powered optimization, multi-channel analytics, and real-time scaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
